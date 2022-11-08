@@ -1,0 +1,35 @@
+body{
+    background-color: skyblue;
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(90deg,red,yellow,green);
+}
+.login{
+    background-image: linear-gradient(whitesmoke,blue);
+    width: 20%;
+    height: 450px;
+    margin-left: 500px;
+    margin-top: 50px;
+    border-radius: 7px;
+}
+.login a{
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+}
+.Signup{
+    background-image: linear-gradient(whitesmoke,blue);
+    width: 20%;
+    height: 450px;
+    margin-left: 500px;
+    margin-top: 50px;
+    border-radius: 7px;
+}
+.forgot{
+    background-image: linear-gradient(whitesmoke,blue);
+    width: 20%;
+    height: 450px;
+    margin-left: 500px;
+    margin-top: 50px;
+    border-radius: 7px;
+}
